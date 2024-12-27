@@ -66,6 +66,11 @@ input:focus, select:focus {
     box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
 }
 
+/* Optionally style the dropdown button (browser default) for datalist */
+input::-webkit-calendar-picker-indicator {
+    display: none; /* Hide default browser icon (if present) */
+}
+
 /* Search Button Styles */
 button {
     padding: 12px;
