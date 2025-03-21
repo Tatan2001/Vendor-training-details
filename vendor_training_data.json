@@ -238,7 +238,7 @@
           "Sr. No.": 27,
           "Enrollment Number": "21003790MA",
           "Candidate Name": "Ranjit Kumar Ari",
-          "Company Name": "BENGAL TRANSPORT",
+          "Company Name": "BENGAL TRANSPORT SERVICE",
           "Result": "Bronze",
           "Date of Training": "03.05.24",
           "Validity": "03.05.27"
@@ -435,7 +435,7 @@
         {
             "Sr. No.": 49,
             "Enrollment Number": "21003789MA",
-            "Candidate Name": "MANORANJAN JANA",
+            "Candidate Name": "MANORANJAN  JANA",
             "Company Name": "BENGAL TRANSPORT SERVICE",
             "Result": "Bronze",
             "Date of Training": "04.05.24",
@@ -1712,533 +1712,710 @@
             "Validity": "10.05.27"
           },
           {
-            "EnrollmentNumber": "25001507MA",
-            "CandidateName": "ARJUN KUMAR BARMAN",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001507MA",
+            "Candidate Name": "ARJUN KUMAR BARMAN",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001491MA",
-            "CandidateName": "ASHUTOSH KAYAL",
-            "CompanyName": "POWER AND PROJECT",
+            "Enrollment Number": "25001491MA",
+            "Candidate Name": "ASHUTOSH KAYAL",
+            "Company Name": "POWER AND PROJECT",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001496MA",
-            "CandidateName": "BANESWAR MAITY",
-            "CompanyName": "POWER AND PROJECT",
+            "Enrollment Number": "25001496MA",
+            "Candidate Name": "BANESWAR MAITY",
+            "Company Name": "POWER AND PROJECT",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001469MA",
-            "CandidateName": "BHIM DAS",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001469MA",
+            "Candidate Name": "BHIM DAS",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001514MA",
-            "CandidateName": "DEBRATA MAITY",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001514MA",
+            "Candidate Name": "DEBRATA MAITY",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001512MA",
-            "CandidateName": "KARTIK PANDIT",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001512MA",
+            "Candidate Name": "KARTIK PANDIT",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001503MA",
-            "CandidateName": "KINKAR BHOWMIK",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001503MA",
+            "Candidate Name": "KINKAR BHOWMIK",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001493MA",
-            "CandidateName": "MALAY KUMAR SINGHA",
-            "CompanyName": "POWER AND PROJECT",
+            "Enrollment Number": "25001493MA",
+            "Candidate Name": "MALAY KUMAR SINGHA",
+            "Company Name": "POWER AND PROJECT",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001515MA",
-            "CandidateName": "NABA KUMAR MONDAL",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001515MA",
+            "Candidate Name": "NABA KUMAR MONDAL",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001468MA",
-            "CandidateName": "PRABIR JANA",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001468MA",
+            "Candidate Name": "PRABIR JANA",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001465MA",
-            "CandidateName": "SANJOY KUMAR BAG",
-            "CompanyName": "DAS DEVELOPMENT CONSTRUCTION",
+            "Enrollment Number": "25001465MA",
+            "Candidate Name": "SANJOY KUMAR BAG",
+            "Company Name": "DAS DEVELOPMENT CONSTRUCTION",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001498MA",
-            "CandidateName": "SANTU MAITY",
-            "CompanyName": "POWER AND PROJECT",
+            "Enrollment Number": "25001498MA",
+            "Candidate Name": "SANTU MAITY",
+            "Company Name": "POWER AND PROJECT",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001466MA",
-            "CandidateName": "SK SAJEMAN",
-            "CompanyName": "MS GOUTAM TRADING",
+            "Enrollment Number": "25001466MA",
+            "Candidate Name": "SK SAJEMAN",
+            "Company Name": "GOUTAM TRADING",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001510MA",
-            "CandidateName": "SRIMANTA MANNA",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001510MA",
+            "Candidate Name": "SRIMANTA MANNA",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001505MA",
-            "CandidateName": "SURAJIT MAITY",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001505MA",
+            "Candidate Name": "SURAJIT MAITY",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001467MA",
-            "CandidateName": "TANUMOY ROY",
-            "CompanyName": "HALDIA SHEETMETAL WORKS",
+            "Enrollment Number": "25001467MA",
+            "Candidate Name": "TANUMOY ROY",
+            "Company Name": "HALDIA SHEETMETAL WORKS",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001508MA",
-            "CandidateName": "TAPAS MONDAL",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001508MA",
+            "Candidate Name": "TAPAS MONDAL",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001495MA",
-            "CandidateName": "TAPAS PATRA",
-            "CompanyName": "POWER AND PROJECT",
+            "Enrollment Number": "25001495MA",
+            "Candidate Name": "TAPAS PATRA",
+            "Company Name": "POWER AND PROJECT",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001464MA",
-            "CandidateName": "TILAKNATH DEV",
-            "CompanyName": "DAS DEVELOPMENT CONSTRUCTION",
+            "Enrollment Number": "25001464MA",
+            "Candidate Name": "TILAKNATH DEV",
+            "Company Name": "DAS DEVELOPMENT CONSTRUCTION",
             "Result": "Bronze",
             "TrainingDates": "23.09.24 to 24.09.24",
             "Validity": "24.09.27"
         },
         {
-            "EnrollmentNumber": "25001500MA",
-            "CandidateName": "AJAY KUMAR DAS",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001500MA",
+            "Candidate Name": "AJAY KUMAR DAS",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001501MA",
-            "CandidateName": "ANISUL HAQUE",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001501MA",
+            "Candidate Name": "ANISUL HAQUE",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Blue",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001513MA",
-            "CandidateName": "BISHWANATH KALSA",
-            "CompanyName": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
+            "Enrollment Number": "25001513MA",
+            "Candidate Name": "BISHWANATH KALSA",
+            "Company Name": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001490MA",
-            "CandidateName": "DAYAL KRISHNA DAS",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001490MA",
+            "Candidate Name": "DAYAL KRISHNA DAS",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001488MA",
-            "CandidateName": "JAGADISH PATRA",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001488MA",
+            "Candidate Name": "JAGADISH PATRA",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Blue",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001497MA",
-            "CandidateName": "JAGANNATH JANA",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001497MA",
+            "Candidate Name": "JAGANNATH JANA",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001494MA",
-            "CandidateName": "JAYANTA DAS",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001494MA",
+            "Candidate Name": "JAYANTA DAS",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001483MA",
-            "CandidateName": "MANOJIT PRADHAN",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001483MA",
+            "Candidate Name": "MANOJIT PRADHAN",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001509MA",
-            "CandidateName": "MOHAN MONDAL",
-            "CompanyName": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
+            "Enrollment Number": "25001509MA",
+            "Candidate Name": "MOHAN MONDAL",
+            "Company Name": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001492MA",
-            "CandidateName": "PURNENDU SEKHAR DAS",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001492MA",
+            "Candidate Name": "PURNENDU SEKHAR DAS",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001482MA",
-            "CandidateName": "SABIR",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001482MA",
+            "Candidate Name": "SABIR",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001485MA",
-            "CandidateName": "SAMIRAN PRADHAN",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001485MA",
+            "Candidate Name": "SAMIRAN PRADHAN",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001506MA",
-            "CandidateName": "SEKH MAHAMMAD ALI",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001506MA",
+            "Candidate Name": "SEKH MAHAMMAD ALI",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001502MA",
-            "CandidateName": "SHANKAR ADAK",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001502MA",
+            "Candidate Name": "SHANKAR ADAK",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001489MA",
-            "CandidateName": "SK RAKESH ALI",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001489MA",
+            "Candidate Name": "SK RAKESH ALI",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001487MA",
-            "CandidateName": "SK SAIDUL ALI",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001487MA",
+            "Candidate Name": "SK SAIDUL ALI",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001486MA",
-            "CandidateName": "SK TABARAK ALI",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001486MA",
+            "Candidate Name": "SK TABARAK ALI",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Blue",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001484MA",
-            "CandidateName": "SK HAMIDUL ALI",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001484MA",
+            "Candidate Name": "SK HAMIDUL ALI",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001516MA",
-            "CandidateName": "SOUVIK PRAMANIK",
-            "CompanyName": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
+            "Enrollment Number": "25001516MA",
+            "Candidate Name": "SOUVIK PRAMANIK",
+            "Company Name": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001499MA",
-            "CandidateName": "SRIKRISHNA MONDAL",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001499MA",
+            "Candidate Name": "SRIKRISHNA MONDAL",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001511MA",
-            "CandidateName": "SUBHANJAN PANDA",
-            "CompanyName": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
+            "Enrollment Number": "25001511MA",
+            "Candidate Name": "SUBHANJAN PANDA",
+            "Company Name": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001517MA",
-            "CandidateName": "SUMAN KUMAR PRAMANIK",
-            "CompanyName": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
+            "Enrollment Number": "25001517MA",
+            "Candidate Name": "SUMAN KUMAR PRAMANIK",
+            "Company Name": "INSPIRE GLOBAL ENGINNERING AND SERVICES",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25001504MA",
-            "CandidateName": "TAPAN PRAMANIK",
-            "CompanyName": "GOUTAM MANNA ENETERPRISE",
+            "Enrollment Number": "25001504MA",
+            "Candidate Name": "TAPAN PRAMANIK",
+            "Company Name": "GOUTAM MANNA ENETERPRISE",
             "Result": "Bronze",
             "TrainingDates": "30.09.24 to 01.10.24",
             "Validity": "01.10.27"
         },
         {
-            "EnrollmentNumber": "25002749MA",
-            "CandidateName": "Anup Mondal",
-            "CompanyName": "GM ENTERPRISES",
+            "Enrollment Number": "25002749MA",
+            "Candidate Name": "Anup Mondal",
+            "Company Name": "GM ENTERPRISES",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002759MA",
-            "CandidateName": "Ashish Kumar Jaiswal",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002759MA",
+            "Candidate Name": "Ashish Kumar Jaiswal",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002767MA",
-            "CandidateName": "Bandhan Kumar",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002767MA",
+            "Candidate Name": "Bandhan Kumar",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002744MA",
-            "CandidateName": "Bijay Pal",
-            "CompanyName": "DEMECH CHEMICALPVT LTD",
+            "Enrollment Number": "25002744MA",
+            "Candidate Name": "Bijay Pal",
+            "Company Name": "DEMECH CHEMICALPVT LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002762MA",
-            "CandidateName": "Bimal Prasad Behera",
-            "CompanyName": "DEMECH CHEMICALPVT LTD",
+            "Enrollment Number": "25002762MA",
+            "Candidate Name": "Bimal Prasad Behera",
+            "Company Name": "DEMECH CHEMICALPVT LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002748MA",
-            "CandidateName": "Biraj Pattanayak",
-            "CompanyName": "GM ENTERPRISES",
+            "Enrollment Number": "25002748MA",
+            "Candidate Name": "Biraj Pattanayak",
+            "Company Name": "GM ENTERPRISES",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002743MA",
-            "CandidateName": "Chandan Sasmal",
-            "CompanyName": "DEMECH CHEMICALPVT LTD",
+            "Enrollment Number": "25002743MA",
+            "Candidate Name": "Chandan Sasmal",
+            "Company Name": "DEMECH CHEMICALPVT LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002752MA",
-            "CandidateName": "Deepak Kumar",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002752MA",
+            "Candidate Name": "Deepak Kumar",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002760MA",
-            "CandidateName": "Devan Paswan",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002760MA",
+            "Candidate Name": "Devan Paswan",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002753MA",
-            "CandidateName": "Hitasish Nath",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002753MA",
+            "Candidate Name": "Hitasish Nath",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002746MA",
-            "CandidateName": "Kanchan Baski",
-            "CompanyName": "GM ENTERPRISES",
+            "Enrollment Number": "25002746MA",
+            "Candidate Name": "Kanchan Baski",
+            "Company Name": "GM ENTERPRISES",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002758MA",
-            "CandidateName": "Lalan Paswan",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002758MA",
+            "Candidate Name": "Lalan Paswan",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002745MA",
-            "CandidateName": "Laxmikanta Das",
-            "CompanyName": "GM ENTERPRISES",
+            "Enrollment Number": "25002745MA",
+            "Candidate Name": "Laxmikanta Das",
+            "Company Name": "GM ENTERPRISES",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002763MA",
-            "CandidateName": "Manish Kumar Paswan",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002763MA",
+            "Candidate Name": "Manish Kumar Paswan",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002765MA",
-            "CandidateName": "Monu Kumar",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002765MA",
+            "Candidate Name": "Monu Kumar",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002757MA",
-            "CandidateName": "Nawal Kishor Paswan",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002757MA",
+            "Candidate Name": "Nawal Kishor Paswan",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002756MA",
-            "CandidateName": "Niraj Kumar",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002756MA",
+            "Candidate Name": "Niraj Kumar",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002751MA",
-            "CandidateName": "Prabir Kumar Jana",
-            "CompanyName": "HOLDER SHEET METAL WORK",
+            "Enrollment Number": "25002751MA",
+            "Candidate Name": "Prabir Kumar Jana",
+            "Company Name": "HOLDER SHEET METAL WORK",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002750MA",
-            "CandidateName": "Prasenjit Das",
-            "CompanyName": "HOLDER SHEET METAL WORK",
+            "Enrollment Number": "25002750MA",
+            "Candidate Name": "Prasenjit Das",
+            "Company Name": "HOLDER SHEET METAL WORK",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002747MA",
-            "CandidateName": "Raja Hazra",
-            "CompanyName": "GM ENTERPRISES",
+            "Enrollment Number": "25002747MA",
+            "Candidate Name": "Raja Hazra",
+            "Company Name": "GM ENTERPRISES",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002755MA",
-            "CandidateName": "Ramadhar Paswan",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002755MA",
+            "Candidate Name": "Ramadhar Paswan",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002754MA",
-            "CandidateName": "Rupesh Kumar",
-            "CompanyName": "PAHADPUR COOLING TOWER LTD",
+            "Enrollment Number": "25002754MA",
+            "Candidate Name": "Rupesh Kumar",
+            "Company Name": "PAHADPUR COOLING TOWER LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "25002761MA",
-            "CandidateName": "Saroj Ranjan Pradhana",
-            "CompanyName": "DEMECH CHEMICALPVT LTD",
+            "Enrollment Number": "25002761MA",
+            "Candidate Name": "Saroj Ranjan Pradhana",
+            "Company Name": "DEMECH CHEMICALPVT LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
         },
         {
-            "EnrollmentNumber": "21003169MA",
-            "CandidateName": "Soumya Ranjan Khandual",
-            "CompanyName": "DEMECH CHEMICALPVT LTD",
+            "Enrollment Number": "21003169MA",
+            "Candidate Name": "Soumya Ranjan Khandual",
+            "Company Name": "DEMECH CHEMICALPVT LTD",
             "Result": "Bronze",
             "TrainingDates": "15.11.24 to 16.11.24",
             "Validity": "16.11.27"
-        }
+        },
+            {
+                "Enrollment Number": "24000379MA", 
+                "Candidate Name": "Subrata Mukherjee",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "07.06.23 to 08.06.23",
+                "Validity": "08.06.26"
+            },
+            {
+                "Enrollment Number": "22001870MA", 
+                "Candidate Name": "Lakshman Bhunia",
+                "Company Name": "JANA INDUSTRIES",
+                "Result": "Bronze",
+                "Date of Training": "09.12.21 to 10.12.21",
+                "Validity": "10.12.24"
+            },
+            {
+                "Enrollment Number": "22001906MA", 
+                "Candidate Name": "Milan Maity",
+                "Company Name": "JANA INDUSTRIES",
+                "Result": "Bronze",
+                "Date of Training": "15.12.21 to 16.12.21",
+                "Validity": "16.12.24"
+            },
+            {
+                "Enrollment Number": "23001725MA", 
+                "Candidate Name": "Krishan Patra",
+                "Company Name": "JANA INDUSTRIES",
+                "Result": "Bronze",
+                "Date of Training": "25.10.22 to 26.10.22",
+                "Validity": "26.10.25"
+            },
+            {
+                "Enrollment Number": "23001724MA", 
+                "Candidate Name": "Debaprasad Pramanik",
+                "Company Name": "JANA INDUSTRIES",
+                "Result": "Bronze",
+                "Date of Training": "25.10.22 to 26.10.22",
+                "Validity": "26.10.25"
+            },
+            {
+                "Enrollment Number": "23001713MA", 
+                "Candidate Name": "Goutam Dhara",
+                "Company Name": "JANA INDUSTRIES",
+                "Result": "Bronze",
+                "Date of Training": "25.10.22 to 26.10.22",
+                "Validity": "26.10.25"
+            },
+            {
+                "Enrollment Number": "23000695MA", 
+                "Candidate Name": "Soumyak Samanta",
+                "Company Name": "Capron Oil Management",
+                "Result": "Bronze",
+                "Date of Training": "07.06.22 to 08.06.22",
+                "Validity": "08.06.25"
+            },
+            {
+                "Enrollment Number": "23000696MA", 
+                "Candidate Name": "Mihir Kumar Pramanick",
+                "Company Name": "Capron Oil Management",
+                "Result": "Bronze",
+                "Date of Training": "07.06.22 to 08.06.22",
+                "Validity": "08.06.25"
+            },
+            {
+                "Enrollment Number": "22000353MA", 
+                "Candidate Name": "ASHIS KUMAR MAITI",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25001496MA", 
+                "Candidate Name": "BANESWAR MAITY",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },        
+            {
+                "Enrollment Number": "25005479MA", 
+                "Candidate Name": "BIMAN DOLAI",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005485MA", 
+                "Candidate Name": "INDRAJIT DAS",
+                "Company Name": "RAINBOW CONSTRUCTION",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "21003801MA", 
+                "Candidate Name": "PRASANTA ROY",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005482MA", 
+                "Candidate Name": "SAKIR ALI KHAN",
+                "Company Name": "HALDIA MARINE SYNDICATE",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005477MA", 
+                "Candidate Name": "SAMIR GAYEN",
+                "Company Name": "DAS DEVELOPMENT AND CONSTRUCTION",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005480MA", 
+                "Candidate Name": "SANJIB BARIK",
+                "Company Name": "HALDIA MARINE SYNDICATE",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "22000327MA", 
+                "Candidate Name": "SEKH AMANUR ALI",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "21003813MA", 
+                "Candidate Name": "SHOVAN MANNA",
+                "Company Name": "SANJIB SIGN",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005484MA", 
+                "Candidate Name": "SHYAMSUNDAR DALAPATI",
+                "Company Name": "RAINBOW CONSTRUCTION",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005483MA", 
+                "Candidate Name": "SK ABDUL MUKTALIB",
+                "Company Name": "HALDIA SHEET METAL WORKS",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005478MA", 
+                "Candidate Name": "SUBHANKAR ADHIKARI",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            },
+            {
+                "Enrollment Number": "25005481MA", 
+                "Candidate Name": "TAPAN DAS",
+                "Company Name": "HALDIA MARINE SYNDICATE",
+                "Result": "Bronze",
+                "Date of Training": "05.02.25 to 06.02.25",
+                "Validity": "05.02.28"
+            }
+    
     ],
     "TPSDI L2 WAH": [
         {
@@ -3986,7 +4163,7 @@
             "Company Name": "DDC",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 2,
@@ -3995,7 +4172,7 @@
             "Company Name": "HM",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 3,
@@ -4004,7 +4181,7 @@
             "Company Name": "RAINBOW CONSTRUCTION",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 4,
@@ -4013,7 +4190,7 @@
             "Company Name": "HM",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 5,
@@ -4022,7 +4199,7 @@
             "Company Name": "HM",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 6,
@@ -4031,7 +4208,7 @@
             "Company Name": "JANA INDUSTRIES AND COMPANY",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 7,
@@ -4040,7 +4217,7 @@
             "Company Name": "RAINBOW CONSTRUCTION",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 8,
@@ -4049,7 +4226,7 @@
             "Company Name": "JANA INDUSTRIES AND COMPANY",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 9,
@@ -4058,7 +4235,7 @@
             "Company Name": "HSMW",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 10,
@@ -4067,7 +4244,7 @@
             "Company Name": "DDC",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 11,
@@ -4076,7 +4253,7 @@
             "Company Name": "HSMW",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 12,
@@ -4085,7 +4262,7 @@
             "Company Name": "POWER AND PROJECT",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 13,
@@ -4094,7 +4271,7 @@
             "Company Name": "HSMW",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 14,
@@ -4103,7 +4280,7 @@
             "Company Name": "HSMW",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 15,
@@ -4112,7 +4289,7 @@
             "Company Name": "JANA INDUSTRIES AND COMPANY",
             "Result": "Gold",
             "Date of Training": "26.03.2021 to 27.03.2021",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 16,
@@ -4121,7 +4298,7 @@
             "Company Name": "HSMW",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 17,
@@ -4130,7 +4307,7 @@
             "Company Name": "DDC",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 18,
@@ -4139,7 +4316,7 @@
             "Company Name": "Inspectorate Griffith India Pvt. Ltd",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 19,
@@ -4148,7 +4325,7 @@
             "Company Name": "HSMW",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 20,
@@ -4157,7 +4334,7 @@
             "Company Name": "DDC",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 21,
@@ -4166,7 +4343,7 @@
             "Company Name": "N K ENGINEERING",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 22,
@@ -4175,7 +4352,7 @@
             "Company Name": "SRI GOPAL ELECTRICAL WORKS",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 23,
@@ -4184,7 +4361,7 @@
             "Company Name": "RAINBOW CONSTRUCTION",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 24,
@@ -4193,7 +4370,7 @@
             "Company Name": "N K ENGINEERING",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
+            "Validity": "Expired"
         },
         {
             "Sl. No.": 25,
@@ -4202,8 +4379,152 @@
             "Company Name": "RAINBOW CONSTRUCTION",
             "Result": "Gold",
             "Date of Training": "19.10.2020 to 20.10.2020",
-            "Validity": ""
-        }
+            "Validity": "Expired"
+        },
+            {
+              "Enrollment Number": "24002286MA",
+              "Candidate Name": "NIRUPAM SINGHA",
+              "Company Name": "DAS DEVELOPMENT CONSTRUCTION",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "118091B11517004696",
+              "Candidate Name": "SANKAR PRAMANIK",
+              "Company Name": "NK ENGINEERING",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "23002324MA",
+              "Candidate Name": "SHUBHANKAR BHOWMIK",
+              "Company Name": "HALDIA SHEETMETAL WORKS",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "24000244MA",
+              "Candidate Name": "SOHAM PATTANAYAK",
+              "Company Name": "WEX TECHNOLOGIES PVT LTD",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "23002475MA",
+              "Candidate Name": "SRIMANTA JANA",
+              "Company Name": "DAS DEVELOPMENT CONSTRUCTION",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "116031B15113004509",
+              "Candidate Name": "SUMAN KISHOR BERA",
+              "Company Name": "RAINBOW CONSTRUCTION",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "116031B15106004319",
+              "Candidate Name": "SURAJ KANTI BAL",
+              "Company Name": "DAS DEVELOPMENT CONSTRUCTION",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },
+            {
+              "Enrollment Number": "25001467MA",
+              "Candidate Name": "TANUMOY ROY",
+              "Company Name": "HALDIA SHEETMETAL WORKS",
+              "Result": "Gold",
+              "Date of Training": "20.12.2024 to 21.12.2024",
+              "Validity": "20.12.2027"
+            },          
+            {
+                "Enrollment Number": "25005479MA",
+                "Candidate Name": "BIMAN DOLAI",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "25005021MA",
+                "Candidate Name": "Kalikringkar Das",
+                "Company Name": "DAS DEVELPOMENT AND CONSTRUCTION",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "25002751MA",
+                "Candidate Name": "Prabir Kumar Jana",
+                "Company Name": "HALDIA SHEET METAL WORKS",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "25005477MA",
+                "Candidate Name": "SAMIR GAYEN",
+                "Company Name": "DAS DEVELPOMENT AND CONSTRUCTION",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "25005483MA",
+                "Candidate Name": "SK ABDUL MUKTALIB",
+                "Company Name": "HALDIA SHEETMETAL WORKS",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "25005035MA",
+                "Candidate Name": "Sohon Chakraborty",
+                "Company Name": "DAS DEVELPOMENT AND CONSTRUCTION",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "22000354MA",
+                "Candidate Name": "SOUMEN DAS",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "24000379MA",
+                "Candidate Name": "Subrata Mukherjee",
+                "Company Name": "POWER AND PROJECT",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "25000387MA",
+                "Candidate Name": "SUDIP PAIK",
+                "Company Name": "HALDIA SHEETMETAL WORKS",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            },
+            {
+                "Enrollment Number": "23002492MA",
+                "Candidate Name": "Uttam Samai",
+                "Company Name": "DAS DEVELPOMENT AND CONSTRUCTION",
+                "Result": "Gold",
+                "Date of Training": "07.02.2025 to 08.02.2025",
+                "Validity": "07.02.2028"
+            }       
     ]
     
 }

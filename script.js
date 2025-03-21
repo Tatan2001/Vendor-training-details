@@ -13,7 +13,7 @@ fetch('vendor_training_data.json')
 document.getElementById('searchForm').addEventListener('submit', function (e) {
     e.preventDefault();
 
-    const candidateName = document.getElementById('candidateName').value.trim().toLowerCase();
+    let candidateName = document.getElementById('candidateName').value.trim().replace(/\s+/g, ' ').toLowerCase();
     const companyName = document.getElementById('companyName').value.trim().toLowerCase();
     const sheetName = document.getElementById('sheetName').value;
     const resultDiv = document.getElementById('result');
